@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "routes",
+			"path": "src/routes"
+		},
+		{
+			"name": "src",
+			"path": "src"
+		},
+		{
+			"name": "root",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
